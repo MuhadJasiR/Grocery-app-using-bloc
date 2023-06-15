@@ -1,6 +1,6 @@
-# bloc_sample
+me# bloc_sample
 
-A new Flutter project.
+This is simple project which i made to get an idea about bloc. In this project you will have product listed in home page which i have rough coded as a map. and there will a wishlist and cart. you can add your product to wishlist and cart using bloc state management
 
 ## Getting Started
 
